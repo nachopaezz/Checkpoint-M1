@@ -395,7 +395,7 @@ var specialSort = function (array, orderFunction) {
   return array;
 };
 
-// ----- Closures -----------------------------------------------------------------------------------------------
+// ----- Closures ------------------------------------------------------------------------------------------------
 
 // EJERCICIO 10
 // Implementar la función closureDetect que recibe como parámetro:
