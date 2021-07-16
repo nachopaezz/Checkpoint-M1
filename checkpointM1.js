@@ -354,7 +354,7 @@ var binarySearch = function (array, target) {
   return -1;
 };
 
-// EJERCICIO 9------------------------------------------------------------------------------------------------
+// EJERCICIO 9----------------------------------------------------------------------------------------------
 
 // Ordená un arreglo de objetos usando un bubble sort pero con algunas particularidades.
 // Además del arreglo a ordenar (array) la función va a recibir como parámetro una función
@@ -395,7 +395,7 @@ var specialSort = function (array, orderFunction) {
   return array;
 };
 
-// ----- Closures ------------------------------------------------------------------------------------------------
+// ----- Closures -------------------------------------------------------------------------------------------------
 
 // EJERCICIO 10
 // Implementar la función closureDetect que recibe como parámetro:
